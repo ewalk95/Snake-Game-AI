@@ -89,7 +89,7 @@
 import random, pygame, sys, operator, os, time
 from pygame.locals import *
 
-FPS = 60
+FPS = 20
 WINDOWWIDTH = 1700
 WINDOWHEIGHT = 1000
 CELLSIZE = 50
